@@ -1,0 +1,17 @@
+# Données et fichiers générés par src/zoologiste.py et src/graphique.py
+# (regénérables via les scripts)
+data/raw/
+picture/
+table/resume_statistique.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS / éditeurs
+.DS_Store
+.vscode/
+.idea/
