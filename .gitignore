@@ -1,7 +1,10 @@
 # Données et fichiers générés par src/zoologiste.py et src/graphique.py
 # (regénérables via les scripts)
-data/raw/
-picture/
+data/raw/*
+!data/raw/especes_chats_html/
+!data/raw/zoologiste-chats.html
+picture/*
+!picture/.gitkeep
 table/resume_statistique.xlsx
 
 # Python
