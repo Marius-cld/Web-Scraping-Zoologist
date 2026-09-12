@@ -49,7 +49,7 @@ dans le dossier [`figure/`](figure/) et commentés dans le [notebook](notebook/g
 ## Installation
 
 ```bash
-git clone https://github.com/Marius-cld/Web-Scraping.git
+git clone https://github.com/Marius-cld/Web-Scraping-Zoologist.git
 cd Web-Scraping
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
